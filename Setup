@@ -1,0 +1,6 @@
+git clone
+ls
+cd file name
+ls
+g++ program.cpp
+./a.out
